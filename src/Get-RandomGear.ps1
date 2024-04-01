@@ -35,7 +35,7 @@
 <# 
 
 .DESCRIPTION 
- Script permettant de récupérer une vitesse aléatoirement et de choisir entre une rétrogadation ou un passage de vitesse 
+ Script permettant de récupérer une vitesse aléatoirement et de choisir entre une rétrogradation ou un passage de vitesse 
 
 #>
 [CmdletBinding()]
